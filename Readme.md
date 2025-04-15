@@ -49,6 +49,17 @@ Lets take a look inside the `src` folder
   ```
 
 
+### for SQL
+ ```
+ npm i sequelize
+ ```
+ ```
+ npm i mysql2
+ ```
+```
+npm i sequelize-cli
+```
+
  - go inside the `src`- folder and execute the following command:
  ```
   npx sequelize init
